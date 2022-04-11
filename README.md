@@ -1,6 +1,6 @@
 # ADINA
 Room for students
-from tkinter import *
+from matplotib import *
 
 
 class Main(Frame):
